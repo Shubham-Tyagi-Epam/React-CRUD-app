@@ -1,0 +1,8 @@
+.add-user {
+  background: url("./../../assets/addUser.jpg");
+  height: 100vh;
+  /* padding-top: rem; */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
